@@ -1,4 +1,4 @@
-.flex-container {
+.container {
   margin: 0px auto;
   width: 400px;
   display: flex;
@@ -7,7 +7,7 @@
   justify-content: center;
 }
 
-.flex-container > div {
+.container > div {
   background-color: #f1f1f1;
   width: 100px;
   margin: 10px;
@@ -15,4 +15,9 @@
   line-height: 75px;
   height: 75px;
   font-size: 30px;
+}
+
+#statusBar {
+  margin-top: 70px;
+  text-align: center;
 }
