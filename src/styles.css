@@ -21,3 +21,13 @@
   margin-top: 70px;
   text-align: center;
 }
+
+#restart {
+  margin: 30px auto;
+  display: block;
+}
+
+.winner {
+  color: red;
+  font-size: 20px;
+}
